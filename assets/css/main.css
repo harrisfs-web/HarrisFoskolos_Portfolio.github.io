@@ -3222,7 +3222,7 @@ input, select, textarea {
 
 	.custom-image {
 		width: 100%; /* Adjust the width as needed, e.g., 50%, 200px, etc. */
-		height: auto; /* Maintain the aspect ratio */
+		height: 100%; /* Maintain the aspect ratio */
 		max-width: 2000px; /* Optional: set a maximum width */
 		display: block; /* Ensure the image behaves as a block element */
 		margin: 0 auto; /* Center the image if it's within a container */
@@ -3231,7 +3231,7 @@ input, select, textarea {
 	
 	.custom-image2 {
 		width: 100%; /* Adjust the width as needed, e.g., 50%, 200px, etc. */
-		height: auto; /* Maintain the aspect ratio */
+		height: 100%; /* Maintain the aspect ratio */
 		max-width: 500px; /* Optional: set a maximum width */
 		display: block; /* Ensure the image behaves as a block element */
 		margin: 0; /* Center the image if it's within a container */
@@ -3239,7 +3239,7 @@ input, select, textarea {
 
 	.custom-image3 {
 		width: 120%; /* Adjust the width as needed, e.g., 50%, 200px, etc. */
-		height: auto; /* Maintain the aspect ratio */
+		height: 100%; /* Maintain the aspect ratio */
 		max-width: 2000px; /* Optional: set a maximum width */
 		display: block; /* Ensure the image behaves as a block element */
 		margin: 0 auto; /* Center the image if it's within a container */
